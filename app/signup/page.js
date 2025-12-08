@@ -80,9 +80,9 @@ export default function SignupStep1() {
 
             <button
               onClick={handleNext}
-              className="w-[80%] bg-[#D96073] flex justify-center items-center mt-4 text-[#FFF6EF] mx-auto font-black text-[18px]  py-3 rounded-xl shadow-[0px_4px_20px_-4px_#BA7F88D9]"
+              className="w-[80%] bg-[#D96073] cursor-pointer flex justify-center items-center mt-4 text-[#FFF6EF] mx-auto font-black text-[18px]  py-3 rounded-xl shadow-[0px_4px_20px_-4px_#BA7F88D9]"
             >
-              Next
+              Create my account
             </button>
 
             <p className="font-light text-[16px] mt-5 leadin-[100%] text-[#5F5F60] text-center">
